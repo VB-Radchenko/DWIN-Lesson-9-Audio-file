@@ -1,0 +1,15 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=-1
+SCREENDSIZE=800X480
+SPADDRESS=5000
+[IMG]
+00=00_Novokosino.png
+01=01_Novogireevo.png
+02=02_Perovo.png
+03=03 Shosse_Entuziastov.png
+04=04_Aviamotornaya.png
+05=05_ Ploshchad_Ilicha.png
+06=06_Marksistskaya.png
+07=07_Tretyakovskaya.png
